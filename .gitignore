@@ -1,6 +1,8 @@
-target/
-*.class
-.idea/
-*.iml
+*.log
+**/*.log
 .DS_Store
-.vscode/
+node_modules
+target
+.idea
+*.iml
+.vscode
